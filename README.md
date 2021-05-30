@@ -33,4 +33,4 @@ Python is an interpreted, object-oriented, high-level programming language with 
 Modules in Python are simply Python files with a .py extension. The name of the module will be the name of the file. A Python module can have a set of functions, classes or variables defined and implemented. 
 
 ## Credits
-Credit goes to LearnPython.org(https://www.learnpython.org/en/) for their great documentation and explanation of the basic topics/features of Python. 
+Credit goes to [LearnPython.org](https://www.learnpython.org/en/) for their great documentation and explanation of the basic topics/features of Python. 
