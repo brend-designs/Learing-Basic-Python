@@ -8,6 +8,7 @@ Python is an interpreted, object-oriented, high-level programming language with 
 ## Table of Contents
 
 1. [Hello World](https://github.com/brend-designs/Learning-Python/blob/master/1.%20Hello%2C%20World!/helloworld.py)
+
 The beginning of learning most (if not, all) programming languages, the very basic and simple printing to the command line: "Hello World!"
 
 2. [Variables and Types](https://github.com/brend-designs/Learning-Python/blob/master/2.%20Variables%20%26%20Types/variablestypes.py)
