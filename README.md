@@ -1,6 +1,6 @@
-# Learning Python
+# Learning Basic Python
 
-Learning the Basics of Python. 
+Learning the Basics of Python - This repository is to document me learning basic Python, but also for me to revist later to refresh myself of the basic topics, if needed.
 
 ## What is Python?
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
@@ -31,3 +31,6 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 12. [Modules & Packages]() - In programming, a module is a piece of software that has a specific functionality. For example, when building a ping pong game, one module would be responsible for the game logic, and another module would be responsible for drawing the game on the screen. Each module is a different file, which can be edited separately.
 Modules in Python are simply Python files with a .py extension. The name of the module will be the name of the file. A Python module can have a set of functions, classes or variables defined and implemented. 
+
+## Credits
+Credit goes to LearnPython.org(https://www.learnpython.org/en/) for their great documentation and explanation of the basic topics/features of Python. 
