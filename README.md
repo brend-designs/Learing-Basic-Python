@@ -30,5 +30,4 @@ Python is an interpreted, object-oriented, high-level programming language with 
 11. [Dictionaries](https://github.com/brend-designs/Learning-Python/blob/master/_%2011.%20Dictionaries/dictionaries.py) - A dictionary is a data type similar to arrays, but works with keys and values instead of indexes. Each value stored in a dictionary can be accessed using a key, which is any type of object (a string, a number, a list, etc.) instead of using its index to address it.
 
 12. [Modules & Packages]() - In programming, a module is a piece of software that has a specific functionality. For example, when building a ping pong game, one module would be responsible for the game logic, and another module would be responsible for drawing the game on the screen. Each module is a different file, which can be edited separately.
-
 Modules in Python are simply Python files with a .py extension. The name of the module will be the name of the file. A Python module can have a set of functions, classes or variables defined and implemented. 
