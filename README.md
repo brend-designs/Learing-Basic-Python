@@ -7,10 +7,14 @@ Learning the Basics of Python.
 
 ## Table of Contents
 
-[1. Hello World](https://github.com/brend-designs/Learning-Python/tree/master/1.%20Hello%2C%20World!)
+[1. Hello World](https://github.com/brend-designs/Learning-Python/blob/master/1.%20Hello%2C%20World!/helloworld.py)
 
-[2. Variables and Types](https://github.com/brend-designs/Learning-Python/tree/master/2.%20Variables%20%26%20Types)
+[2. Variables and Types](https://github.com/brend-designs/Learning-Python/blob/master/2.%20Variables%20%26%20Types/variablestypes.py)
 
-[3. Lists](https://github.com/brend-designs/Learning-Python/tree/master/3.%20Lists)
+[3. Lists](https://github.com/brend-designs/Learning-Python/blob/master/3.%20Lists/lists.py)
 
-[4. Basic Operators](https://github.com/brend-designs/Learning-Python/tree/master/4.%20Basic%20Operators)
+[4. Basic Operators](https://github.com/brend-designs/Learning-Python/blob/master/4.%20Basic%20Operators/basicoperators.py)
+
+[5. String Formatting](https://github.com/brend-designs/Learning-Python/blob/master/5.%20String%20Formatting/stringformatting.py)
+
+[6. Basic String Operations](https://github.com/brend-designs/Learning-Python/blob/master/6.%20Basic%20String%20Operations/stringoperations.py)
